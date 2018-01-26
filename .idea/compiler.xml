@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring1" />
+        <module name="Spring2" />
+        <module name="Spring2_AOP" />
+        <module name="Spring3_AOP" />
+        <module name="Spring4_JdbcTemplate" />
+        <module name="Spring4_JdbcTemplate_TX" />
+        <module name="spring5_HIbernate" />
+        <module name="Spring5_HIbernate" />
+        <module name="Spring6_Web_Struts2" />
+        <module name="Spring6_Web_Struts2_Cannot_use" />
+        <module name="Spring7_Web_Can_use" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring1" target="1.7" />
+      <module name="Spring2_AOP" target="1.7" />
+      <module name="Spring3_AOP" target="1.7" />
+      <module name="Spring4_JdbcTemplate_TX" target="1.7" />
+      <module name="Spring5_HIbernate" target="1.7" />
+      <module name="Spring6_Web_Struts2_Cannot_use" target="1.7" />
+      <module name="Spring7_Web_Can_use" target="1.7" />
+      <module name="SpringDemo" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

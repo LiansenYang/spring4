@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring1/Spring1.iml" filepath="$PROJECT_DIR$/Spring1/Spring1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring2_AOP/Spring2_AOP.iml" filepath="$PROJECT_DIR$/Spring2_AOP/Spring2_AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring3_AOP/Spring3_AOP.iml" filepath="$PROJECT_DIR$/Spring3_AOP/Spring3_AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring4_JdbcTemplate_TX/Spring4_JdbcTemplate_TX.iml" filepath="$PROJECT_DIR$/Spring4_JdbcTemplate_TX/Spring4_JdbcTemplate_TX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring5_HIbernate/Spring5_HIbernate.iml" filepath="$PROJECT_DIR$/Spring5_HIbernate/Spring5_HIbernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring6_Web_Struts2_Cannot_use/Spring6_Web_Struts2_Cannot_use.iml" filepath="$PROJECT_DIR$/Spring6_Web_Struts2_Cannot_use/Spring6_Web_Struts2_Cannot_use.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring7_Web_Can_use/Spring7_Web_Can_use.iml" filepath="$PROJECT_DIR$/Spring7_Web_Can_use/Spring7_Web_Can_use.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringDemo.iml" filepath="$PROJECT_DIR$/SpringDemo.iml" />
+    </modules>
+  </component>
+</project>
